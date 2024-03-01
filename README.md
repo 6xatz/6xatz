@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
 
-Experienced software engineer with over 8 years of passion-driven expertise in developing innovative solutions and pushing technological boundaries.
+Software engineer with a passion for innovation, specializing in creating efficient solutions for complex problems with a commitment to continuous learning.
 
 - 🌍 I'm based in Bekasi, Indonesia.
 - 🌱 I’m currently learning Python.
