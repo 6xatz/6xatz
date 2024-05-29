@@ -5,7 +5,7 @@
 Software engineer with a passion for innovation, specializing in creating efficient solutions for complex problems with a commitment to continuous learning.
 
 - 🌍 I'm based in Bekasi, Indonesia.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Rust.
 - ✉️ You can contact me at [atzxenoz0@gmail.com](mailto:atzxenoz0@gmail.com).
 
 ## Languages
