@@ -6,7 +6,7 @@ Software engineer with a passion for innovation, specializing in creating effici
 
 - 🌍 I'm based in Bekasi, Indonesia.
 - 🌱 I’m currently learning Rust.
-- ✉️ You can contact me at [atzxenoz0@gmail.com](mailto:atzxenoz0@gmail.com).
+- ✉️ You can contact me at [styxhere@gmail.com](mailto:styxhere@gmail.com).
 
 ## Languages
 
