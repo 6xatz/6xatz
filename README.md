@@ -11,7 +11,6 @@ Software engineer with a passion for innovation, specializing in creating effici
 ## Languages
 
 <div align="left">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/c/c-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cplusplus/cplusplus-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/csharp/csharp-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/php/php-original.svg" width="32" />
